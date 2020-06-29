@@ -1,0 +1,5 @@
+C:\Users\suraj\source\repos\Test app\Test app\obj\Debug\Test app.csprojAssemblyReference.cache
+C:\Users\suraj\source\repos\Test app\Test app\obj\Debug\MainWindow.g.cs
+C:\Users\suraj\source\repos\Test app\Test app\obj\Debug\App.g.cs
+C:\Users\suraj\source\repos\Test app\Test app\obj\Debug\Test app_MarkupCompile.cache
+C:\Users\suraj\source\repos\Test app\Test app\obj\Debug\Test app_MarkupCompile.lref
